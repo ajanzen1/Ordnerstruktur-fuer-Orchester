@@ -15,17 +15,17 @@ Um das Skript "Noten verteilen.py" auszuführen, benötigst du eine installierte
 Ordnerstruktur
 Das Skript erwartet, dass die Noten in einer bestimmten Ordnerstruktur abgelegt werden. Hier ist eine Übersicht über die erwartete Ordnerstruktur:
 
-Projektordner
+#Projektordner
 - Noten verteilen.py
 - Kompositionen
   - Komposition 1
     - Einzelstimmen
       - Noten für Instrument 1 (z.B. "klarinette_2022.03.03.pdf").
       - Noten für Instrument 2 (z.B. "flöte_2022.03.03.pdf").
-		Komposition 2
-			Einzelstimmen
-				Noten für Instrument 1 (z.B. "klarinette_2022.03.03.pdf").
-				Noten für Instrument 2 (z.B. "flöte_2022.03.03.pdf").
+  - Komposition 2
+  -- Einzelstimmen
+	    - Noten für Instrument 1 (z.B. "klarinette_2022.03.03.pdf").
+	    - Noten für Instrument 2 (z.B. "flöte_2022.03.03.pdf").
 	Probenmaterial
 		Vortrag JJJJ.MM.TT
 			Instrumentenname (z.B. Klarinette)
