@@ -16,9 +16,9 @@ Ordnerstruktur
 Das Skript erwartet, dass die Noten in einer bestimmten Ordnerstruktur abgelegt werden. Hier ist eine Übersicht über die erwartete Ordnerstruktur:
 
 Projektordner
-  Noten verteilen.py
-  Kompositionen
-  	Komposition 1
+	Noten verteilen.py
+	Kompositionen
+  		Komposition 1
 			Einzelstimmen
 				Noten für Instrument 1 (z.B. "klarinette_2022.03.03.pdf").
 				Noten für Instrument 2 (z.B. "flöte_2022.03.03.pdf").
