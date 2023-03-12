@@ -23,14 +23,19 @@ Das Skript erwartet, dass die Noten in einer bestimmten Ordnerstruktur abgelegt 
       - Noten für Instrument 1 (z.B. "klarinette_2022.03.03.pdf").
       - Noten für Instrument 2 (z.B. "flöte_2022.03.03.pdf").
   - Komposition 2
-  -- Einzelstimmen
-	    - Noten für Instrument 1 (z.B. "klarinette_2022.03.03.pdf").
-	    - Noten für Instrument 2 (z.B. "flöte_2022.03.03.pdf").
-	Probenmaterial
-		Vortrag JJJJ.MM.TT
-			Instrumentenname (z.B. Klarinette)
-				Noten für das jeweilige Instrument (z.B. "Komposition X (Klarinette).pdf")
-		Alte Probenmaterialien
-			Vortrag JJJJ.MM.TT
-				Instrumentenname
-					Noten für das jeweilige Instrument
+    - Einzelstimmen
+      - Noten für Instrument 1 (z.B. "klarinette_2022.03.03.pdf").
+      - Noten für Instrument 2 (z.B. "flöte_2022.03.03.pdf").
+- Probenmaterial
+  - Vortrag JJJJ.MM.TT
+    - Instrumentenname (z.B. Klarinette)
+      - Noten für das jeweilige Instrument (z.B. "Komposition X (Klarinette).pdf")
+      	- Vortrag JJJJ.MM.TT
+	  - Instrumentenname
+	    - Noten für das jeweilige Instrument
+  - Alte Probenmaterialien
+    - Instrumentenname (z.B. Klarinette)
+      - Noten für das jeweilige Instrument (z.B. "Komposition X (Klarinette).pdf")
+      	- Vortrag JJJJ.MM.TT
+	  - Instrumentenname
+	    - Noten für das jeweilige Instrument		       
