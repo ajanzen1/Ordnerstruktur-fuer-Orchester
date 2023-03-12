@@ -15,8 +15,6 @@ Um das Skript "Noten verteilen.py" auszuführen, benötigst du eine installierte
 Ordnerstruktur
 Das Skript erwartet, dass die Noten in einer bestimmten Ordnerstruktur abgelegt werden. Hier ist eine Übersicht über die erwartete Ordnerstruktur:
 
-python
-Copy code
 - Projektordner
   |- Noten verteilen.py
   |- Kompositionen
